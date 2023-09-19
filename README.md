@@ -1,2 +1,2 @@
 # cyber-security
-These are the two project which I did while prusing GOOGLE CYBERSECURITY PROJECT.
+These are the two project which I did while doing GOOGLE CYBERSECURITY Course.
